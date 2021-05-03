@@ -30,7 +30,7 @@
 | 延庆区 | 4 | 1.55 |
 | 门头沟区 | 1 | 0.39 |
 
-饼图详见`adnamePie.html`.
+饼图详见`adnamePie.html`, 以及[mybolg](https://brynhild.online/BeijingBikestores/location/).
 
 ## 品牌分布
 
@@ -46,7 +46,7 @@
 | 永久 | 8 | 3.10 |
 | 飞鸽 | 11 | 4.26 |
 
-饼图详见`brandPie.html`.
+饼图详见`brandPie.html`, 以及[mybolg](https://brynhild.online/BeijingBikestores/brand/).
 
 # Statistics
 
