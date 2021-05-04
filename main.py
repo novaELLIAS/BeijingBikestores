@@ -126,7 +126,6 @@ def get_result():
     f = open(file_name, 'w')
     f.writelines(ffff)
     f.close()
-    print("beforesort")
     print(sorted(adname_counter.items(), key=lambda kv: (kv[1], kv[0])))
     print(sorted(brand_counter.items(), key=lambda kv: (kv[1], kv[0])))
     with open("result.csv", "w", newline='') as f:
